@@ -15,6 +15,7 @@ class Navigation extends React.Component {
             <a href="/client">Khách hàng</a>
             <a href="/employee">Nhân viên</a>
             <div className="drop-menu">
+               {/* eslint-disable-next-line */}
                <a className="drop-btn">
                   Thống kê <i className="fas fa-caret-right ml-2"></i>
                </a>

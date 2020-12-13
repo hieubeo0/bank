@@ -35,7 +35,7 @@ class TransAddCredit extends React.Component<any, any> {
    render() {
       return (
          <div className="form-infor">
-            <h2 className="title">Thêm giao dịch tín dụng</h2>
+            <h2 className="title">Thêm giao dịch</h2>
             <div className="input-group">
                <span className="input-group-text">
                   <i className="far fa-comment"></i>

@@ -1,6 +1,4 @@
 import React from "react";
-import Swal from "sweetalert2";
-import { deleteTransaction } from "../../api/TransactionAPI";
 
 class TblTran extends React.Component<any, any> {
    constructor(props: any) {
